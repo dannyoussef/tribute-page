@@ -1,4 +1,4 @@
-# Technical Documentation Page
+# Tribute Page
 
 #### Inspired by freeCodeCamp
 
